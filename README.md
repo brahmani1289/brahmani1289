@@ -1,5 +1,4 @@
-
-# 👋 Hi, I'm Brahmani Vutukuri
+# 👋 Hi, I'm Naga Satya Brahmani Vutukuri
 
 🎓 3rd-year AIML Student | 💻 Frontend Enthusiast | 🤖 AI Explorer  
 
@@ -10,4 +9,3 @@
 - 🎨 Love minimalist designs & creative buildings  
 
 ⭐ Thanks for visiting my profile!
-
