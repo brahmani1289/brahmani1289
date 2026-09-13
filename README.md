@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**brahmani1289/brahmani1289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Brahmani Vutukuri
 
-Here are some ideas to get you started:
+🎓 3rd-year AIML Student | 💻 Frontend Enthusiast | 🤖 AI Explorer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌟 Very interested in **Frontend Development**  
+- 🛠️ Skills: HTML, CSS, Python  
+- 📚 Learning ML & DL algorithms  
+- ❤️ Passionate about Artificial Intelligence  
+- 🎨 Love minimalist designs & creative buildings  
+
+⭐ Thanks for visiting my profile!
+
